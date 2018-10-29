@@ -1,16 +1,20 @@
 # Signal Board
 
-**Signal Board ** is a game. A game.
+**Signal Board ** is a game for advanced physics/computer science students or introduction engineering classes.
 
-Time spent: **0** hours spent in total
+## Summary
+
+This application will become available to Mount Holyoke College Introduction to Computing Systems and Symbolic Logic classes (studends and faculty) in order for them to practice circuits and logical operations. The users will be able to log in and save their solved circuits. They will also be able to view a score board that will rank the time spend of each user. The app will have different levels: the Easy level will allow users to familiarize with the basics of logic gates and electrical circuits, in the Medium level the user will have to demonstrate advanced knowledge of logic because there will only be 2 possible solution for the circuit and lastly in the Hard level there will only be one solution which will allow students to master circuits and logical operations.      
 
 ## User Stories
 
-- [ ] User can switch different logic gate trying to light on all the bulbs (+2pt)
+- [] User can log in and save their game
+- [] User can view a score board for all userd
+- [] User can switch different logic gate trying to light on all the bulbs 
+- [] User can view a detail view of the boolean functions for each switch
+- [] User can try different levels of the game (Easy - Medium - Hard)
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of playing the first level of the game:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -22,7 +26,7 @@ Nothing so far.
 
 ## License
 
-Copyright [2018] [Tony Zhang, Feiyi Zhou]
+Copyright [2018] [Tony Zhang, Feiyi Zhou, Ioanna Deni, Serena Wang, Ching Ching Huang]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

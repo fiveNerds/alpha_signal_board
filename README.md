@@ -16,7 +16,7 @@ This application will become available to Mount Holyoke College Introduction to 
 
 Here's a walkthrough of playing the first level of the game:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/RPINmGT.png?.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

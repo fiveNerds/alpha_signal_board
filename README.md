@@ -9,7 +9,7 @@ This application will become available to Mount Holyoke College Introduction to 
 ## User Stories
 
 - [] User can log in and save their game
-- [] User can view a score board for all userd
+- [] User can view a score board for all users
 - [] User can switch different logic gate trying to light on all the bulbs 
 - [] User can view a detail view of the boolean functions for each switch
 - [] User can try different levels of the game (Easy - Medium - Hard)
